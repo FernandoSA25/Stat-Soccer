@@ -1,9 +1,9 @@
-h1 {
+.page_header {
   color: rgb(0, 0, 0);
-  padding: 30px;
+  padding: 8px;
   text-align: center;
   background: #72e2e0;
-  font-size: 25px;
+  font-size: 15px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 p {
