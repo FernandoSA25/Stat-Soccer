@@ -1,0 +1,29 @@
+h1 {
+  color: rgb(0, 0, 0);
+  padding: 30px;
+  text-align: center;
+  background: #72e2e0;
+  font-size: 25px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+p {
+  color: black;
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px
+}
+.special {
+  color: orange;
+  font-weight: bold;
+}
+li em {
+  color: rebeccapurple;
+}
+a:link {
+  color: pink;
+}
+
+
+a:visited {
+  color: green;
+}

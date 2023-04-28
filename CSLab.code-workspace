@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../CSLab"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Stat Soccer CSLab"
+    }
+}
