@@ -5,6 +5,7 @@
   background: #72e2e0;
   font-size: 15px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  outline: 2px double lightblue;
 }
 p {
   color: black;
@@ -29,12 +30,11 @@ a:visited {
 }
 .recent_matches {
   color: rgb(0, 0, 0);
-  padding: 16px;
+  padding: 8px;
   text-align: center;
-  background: #ffffff;
+  background: rgb(255, 255, 255);
   font-size: 30px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  outline: 1px dotted black;
 }
 h2 {
   font-size: 20px;
