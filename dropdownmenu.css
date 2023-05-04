@@ -14,7 +14,7 @@ position: relative;
 ul li a{
 display: block;
 padding: 20px 25px;
-color: black;
+color: rgb(112, 25, 183);
 text-decoration: none;
 text-align: center;
 font-size: 20px;
@@ -24,13 +24,13 @@ display: block;
 }
 ul li ul.dropdown{
 width: 100%;
-background: black;
+background: rgb(63, 160, 224);
 position: absolute;
 z-index: 999;
 display: none;
 }
 ul li a:hover{
-background: gray;
+background: rgb(82, 170, 200);
 }
 ul li:hover ul.dropdown{
 display: block;

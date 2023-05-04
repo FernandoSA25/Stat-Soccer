@@ -1,12 +1,9 @@
 
-h2 {
- outline: 1px solid brown;
-}
 b {
  outline: 1px dotted purple;
 }
 li {
- outline: 1px solid orange;
+ outline: 1px double rgb(255, 255, 255);
 }
 img {
  outline: 5px dotted royalblue;
