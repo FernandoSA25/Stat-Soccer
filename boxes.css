@@ -2,9 +2,6 @@
 li {
  outline: 1px double rgb(255, 255, 255);
 }
-img {
- outline: 5px dotted royalblue;
-}
 
 p {
     margin-left: 10%;

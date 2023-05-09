@@ -1,0 +1,19 @@
+#ticker {
+  outline: none;
+  border: none;
+  padding-left: 15px;
+  padding-right: 5px;
+  font-family: "Segoe UI", Optima, Helvetica, Arial, sans-serif;
+  line-height: 2.4em;
+}
+
+#ticker-box {
+  outline: none;
+  border: none;
+  background-color: #40c0cb;
+  color: #fff;
+}
+
+li#ticker-item {
+  outline: none;
+}

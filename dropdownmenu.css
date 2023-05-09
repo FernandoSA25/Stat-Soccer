@@ -31,6 +31,7 @@ display: none;
 }
 ul li a:hover{
 background: rgb(82, 170, 200);
+color: white
 }
 ul li:hover ul.dropdown{
 display: block;
