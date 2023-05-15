@@ -35,86 +35,86 @@ th{
 	display: block;
 }
 
-.cl{
+.mc{
 	text-align: center;
 }
 
-.cl td{
-	color: #3562A6;
+.mc td{
+	color: #6CABDD;
 }
 
-.el{
+.sp{
 	text-align: center;
 }
 
-.el td{
-	color: #f07a0b;
+.sp td{
+	color: #132257;;
 }
 
-.ecl{
+.br{
 	text-align: center;
 }
 
-.ecl td{
-	color: #21df17;
+.br td{
+	color: #e30613;;
 }
 
-.pos{
+.li{
 	text-align: center;
 }
 
-.pos td{
-	color: #38003c;
+.li td{
+	color: #C8102E;;
 }
 
-.rel{
+.ne{
 	text-align: center;
 }
 
-.rel td{
-	color: red;
-
+.ne td{
+	color: #241F20;;
 }
+
 table .col{
 	border-bottom: 1px solid #FFFFFF;
 }
 
-.cl:hover{
-	background-color: #3562A6;
+.mc:hover{
+	background-color: #6CABDD;;
 }
 
-.cl:hover td{
+.mc:hover td{
+	color: gold;
+}
+
+.sp:hover{
+	background-color: #132257;
+}
+
+.sp:hover td{
 	color: #ffffff;
 }
 
-.el:hover{
-	background-color: #f07a0b;
+.br:hover{
+	background-color: #e30613;
 }
 
-.el:hover td{
+.br:hover td{
 	color: #ffffff;
 }
 
-.ecl:hover{
-	background-color: #21df17;
+.li:hover{
+	background-color: #C8102E;
 }
 
-.ecl:hover td{
+.li:hover td{
 	color: #ffffff;
 }
 
-.pos:hover{
-	background-color: #38003c;
+.ne:hover{
+	background-color: #241F20;
 }
 
-.pos:hover td{
+.ne:hover td{
 	color: #ffffff;
-}
-
-.rel:hover{
-	background-color: red
-}
-
-.rel:hover td{
-	color: #FFFFFF;
 }
