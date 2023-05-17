@@ -11,9 +11,32 @@ html{
 .ptable table{
 	margin: 30px auto;
 	border-collapse: collapse;
+	float: left;
+	margin-left: 200px;
 }
 
 .ptable{
+	margin: 0px 0% 30px 0%;
+}
+
+.ptablea table{
+	margin: 30px auto;
+	border-collapse: collapse;
+	margin-top: 60px;
+}
+
+.ptablea{
+	margin: 0px 0% 30px 0%;
+}
+
+.ptablear table{
+	margin: 30px auto;
+	border-collapse: collapse;
+	float: right;
+	margin-right: 200px;
+}
+
+.ptablear{
 	margin: 0px 0% 30px 0%;
 }
 
@@ -25,6 +48,10 @@ th{
 	background-color: #04f5ff;
 	color: #38003c;
     outline: 1px solid #38003c;
+}
+
+td{
+	outline: 1px solid #38003c17;
 }
 
 .headin{
@@ -40,6 +67,14 @@ th{
 }
 
 .mc td{
+	color: #6CABDD;
+}
+
+.mc1{
+	text-align: center;
+}
+
+.mc1 td{
 	color: #6CABDD;
 }
 
@@ -75,8 +110,40 @@ th{
 	color: #241F20;;
 }
 
+.mu{
+	text-align: center;
+}
+
+.mu td{
+	color: #DA291C;;
+}
+
+.ar{
+	text-align: center;
+}
+
+.ar td{
+	color: #EF0107;;
+}
+
+.cr{
+	text-align: center;
+}
+
+.cr td{
+	color: #1B458F;;
+}
+
 table .col{
 	border-bottom: 1px solid #FFFFFF;
+}
+
+.mc1:hover{
+	background-color: #6CABDD;;
+}
+
+.mc1:hover td{
+	color: gold;
 }
 
 .mc:hover{
@@ -84,7 +151,7 @@ table .col{
 }
 
 .mc:hover td{
-	color: gold;
+	color: rgb(255, 255, 255);
 }
 
 .sp:hover{
@@ -116,5 +183,29 @@ table .col{
 }
 
 .ne:hover td{
+	color: #ffffff;
+}
+
+.mu:hover{
+	background-color: #DA291C;
+}
+
+.mu:hover td{
+	color: #ffffff;
+}
+
+.ar:hover{
+	background-color: #EF0107;
+}
+
+.ar:hover td{
+	color: #ffffff;
+}
+
+.cr:hover{
+	background-color: #1B458F;
+}
+
+.cr:hover td{
 	color: #ffffff;
 }
